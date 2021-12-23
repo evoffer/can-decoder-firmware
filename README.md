@@ -3,6 +3,9 @@ Firmware Update for CAN Decoder for Tailgate Foot Activation and Lighted Appliqu
 
 ## Update Note
 
+### update209
+1. Add Tailgate Foot Activation disablement feature when emergency flash light is on.
+
 ### update214
 1. Add Car Wash Mode for Model 3/Y Tailgate Foot Activation
 
