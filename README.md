@@ -15,8 +15,7 @@ Firmware Update for CAN Decoder for Tailgate Foot Activation and Lighted Appliqu
 Prepare a microSD (32GB or below capacity is preferred). Make sure it is in FAT32 format.
 
 ### Step 2 - Getting the Update File
-Get the update file ready (`formware.bin` for v1.00 and `wsoft0.bin` for v1.15 / v2.00). 
-Do not rename the file and place it under the root of the microSD.
+Rename the file to `formware.bin` (v1.00) or `wsoft0.bin` (v1.15 / v2.00) and place it under the root of the microSD.
 Eject it from the computer afterwards.
 
 ### Step 3 - Flashing the Update
