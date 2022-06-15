@@ -9,6 +9,13 @@ Firmware Update for CAN Decoder for Tailgate Foot Activation and Lighted Appliqu
 ### update214
 1. Add Car Wash Mode for Model 3/Y Tailgate Foot Activation
 
+### update216
+1. Update Model S/X Lighted Applique charging effect
+
+### update219
+1. Fix Model S/X Lighted Applique effect
+2. Add blind spot signal
+
 ## Software Update
 
 ### Step 1 - Prepare Memory Card
