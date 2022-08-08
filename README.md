@@ -3,6 +3,9 @@ Firmware Update for CAN Decoder for Tailgate Foot Activation and Lighted Appliqu
 
 ## Update Note
 
+### update222
+1. Update charging logic for Model S/X 2021+ for Tesla Version 2022.20 or above.
+
 ### update209
 1. Add Tailgate Foot Activation disablement feature when emergency flash light is on.
 
